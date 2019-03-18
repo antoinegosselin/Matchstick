@@ -7,7 +7,8 @@ The basic version must generate a game board withnmatchstick lines (1 < n < 100)
 
 The number of lines is given as parameter to the program.
 
-The second parameter of the program indicates the maximum number of matches that can be taken outeach turn (must be > 0).
+The second parameter of the program indicates the maximum number of matches that can be taken outeach turn 
+(must be > 0).
 
 When matchsticks are removed, they must be removed starting from the right (like in the example below).
 
